@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>592</width>
+    <height>625</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">QWidget {	height: 100;	width: 100;}</string>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QPushButton" name="cell_1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>mine_ok.jpg</normaloff>mine_ok.jpg</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>100</width>
+          <height>100</height>
+         </size>
+        </property>
+        <property name="checkable">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QPushButton" name="cell_6">
+        <property name="styleSheet">
+         <string notr="true">cell_6 {	background-image: url(C:\Users\Сергей\my_project\Sapper\mine_ok.jpg);}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_7">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_8">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_9">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_10">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <widget class="QPushButton" name="cell_11">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_12">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_13">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_14">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_15">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_4">
+      <item>
+       <widget class="QPushButton" name="cell_16">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_17">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_18">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_19">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_20">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_5">
+      <item>
+       <widget class="QPushButton" name="cell_21">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_22">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_23">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_24">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cell_25">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {	height: 100;	width: 100;}</string>
+        </property>
+        <property name="text">
+         <string>PushButton</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>592</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
